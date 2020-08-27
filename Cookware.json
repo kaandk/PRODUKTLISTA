@@ -1,0 +1,194 @@
+[
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/lyckad-oven-serving-dish-set-of-2__0916171_PE785011_S5.JPG?f=xxs",
+    "title": "LYCKAD",
+    "integer": "9",
+    "price": "9 €",
+    "decimal": ".99",
+    "description": "Oven/serving dish set of 2"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/vardagen-frying-pan__0740605_PE742088_S5.JPG?f=xxs",
+    "title": "VARDAGEN",
+    "integer": "24",
+    "price": "24 €",
+    "decimal": ".95",
+    "description": "Frying pan28 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/klockren-colander__0791125_PE764520_S5.JPG?f=xxs",
+    "title": "KLOCKREN",
+    "integer": "5",
+    "price": "5 €",
+    "decimal": ".99",
+    "description": "Colander2.0 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/vardagen-blini-pancake-pan__0770393_PE755503_S5.JPG?f=xxs",
+    "title": "VARDAGEN",
+    "integer": "22",
+    "price": "22 €",
+    "decimal": ".95",
+    "description": "Blini/pancake pan28 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/annons-5-piece-cookware-set-glass-stainless-steel__0710404_PE727528_S5.JPG?f=xxs",
+    "title": "ANNONS",
+    "integer": "9",
+    "price": "9 €",
+    "decimal": ".99",
+    "description": "5-piece cookware set"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/kavalkad-frying-pan-set-of-2-black__0811389_PE771638_S5.JPG?f=xxs",
+    "title": "KAVALKAD",
+    "integer": "6",
+    "price": "6 €",
+    "decimal": ".99",
+    "description": "Frying pan, set of 2"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/oumbaerlig-7-piece-cookware-set__0710410_PE727531_S5.JPG?f=xxs",
+    "title": "OUMBÄRLIG",
+    "integer": "49",
+    "price": "49 €",
+    "decimal": ".95",
+    "description": "7-piece cookware set"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/kavalkad-frying-pan-black__0241981_PE381624_S5.JPG?f=xxs",
+    "title": "KAVALKAD",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Frying pan24 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/prickig-microwave-lid-grey__0710828_PE727792_S5.JPG?f=xxs",
+    "title": "PRICKIG",
+    "integer": "0",
+    "price": "0 €",
+    "decimal": ".99",
+    "description": "Microwave lid26 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/annons-pot-with-lid-glass-stainless-steel__0714768_PE730240_S5.JPG?f=xxs",
+    "title": "ANNONS",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".99",
+    "description": "Pot with lid2.8 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/tolerant-wok__0710361_PE727488_S5.JPG?f=xxs",
+    "title": "TOLERANT",
+    "integer": "9",
+    "price": "9 €",
+    "decimal": ".99",
+    "description": "Wok33 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/heat-pot-stand-cork__0712344_PE728747_S5.JPG?f=xxs",
+    "title": "HEAT",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".69",
+    "description": "Pot stand19 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/klockren-steamer-insert-stainless-steel__0712838_PE729101_S5.JPG?f=xxs",
+    "title": "KLOCKREN",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".49",
+    "description": "Steamer insert"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/utrustad-pan-protector__0403615_PE566167_S5.JPG?f=xxs",
+    "title": "UTRUSTAD",
+    "integer": "0",
+    "price": "0 €",
+    "decimal": ".79",
+    "description": "Pan protector38 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/laemplig-trivet-stainless-steel__0711759_PE728451_S5.JPG?f=xxs",
+    "title": "LÄMPLIG",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".99",
+    "description": "Trivet50x28 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/mixtur-oven-serving-dish-clear-glass__0710707_PE727721_S5.JPG?f=xxs",
+    "title": "MIXTUR",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".49",
+    "description": "Oven/serving dish27x18 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/klockren-colander__0791144_PE764530_S5.JPG?f=xxs",
+    "title": "KLOCKREN",
+    "integer": "9",
+    "price": "9 €",
+    "decimal": ".99",
+    "description": "Colander5.0 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/smavar-grill-pan__0350942_PE535747_S5.JPG?f=xxs",
+    "title": "SMÅVAR",
+    "integer": "14",
+    "price": "14 €",
+    "decimal": ".95",
+    "description": "Grill pan28x28 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/stabil-splatter-screen-stainless-steel__0710813_PE727777_S5.JPG?f=xxs",
+    "title": "STABIL",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Splatter screen33 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/oumbaerlig-frying-pan__0712829_PE729092_S5.JPG?f=xxs",
+    "title": "OUMBÄRLIG",
+    "integer": "12",
+    "price": "12 €",
+    "decimal": ".95",
+    "description": "Frying pan28 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/skaenka-crepe-pancake-pan-gray__0710340_PE727461_S5.JPG?f=xxs",
+    "title": "SKÄNKA",
+    "integer": "6",
+    "price": "6 €",
+    "decimal": ".99",
+    "description": "Crepe-/pancake pan25 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/lyckad-oven-serving-dish-green__0710572_PE727640_S5.JPG?f=xxs",
+    "title": "LYCKAD",
+    "integer": "6",
+    "price": "6 €",
+    "decimal": ".99",
+    "description": "Oven/serving dish31x21 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/foeljsam-oven-dish-clear-glass__0710555_PE727642_S5.JPG?f=xxs",
+    "title": "FÖLJSAM",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Oven dish24.5x24.5 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/vardagen-casserole-with-lid-cast-iron__0740602_PE742087_S5.JPG?f=xxs",
+    "title": "VARDAGEN",
+    "integer": "44",
+    "price": "44 €",
+    "decimal": ".95",
+    "description": "Casserole with lid5 l"
+  }
+]

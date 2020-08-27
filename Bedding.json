@@ -1,0 +1,194 @@
+[
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/dvala-fitted-sheet__0757294_PE749185_S5.JPG?f=xxs",
+    "title": "DVALA",
+    "integer": "5",
+    "price": "5 €",
+    "decimal": ".99",
+    "description": "Fitted sheet90x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/traedkrassula-quilt-cover-and-pillowcase__0737319_PE740989_S5.JPG?f=xxs",
+    "title": "TRÄDKRASSULA",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".99",
+    "description": "Quilt cover and pillowcase140x200/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/taggvallmo-fitted-sheet-white__0760436_PE750724_S5.JPG?f=xxs",
+    "title": "TAGGVALLMO",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Fitted sheet90x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/snoefrid-cushion-cover-turquoise-white__0567990_PE665197_S5.JPG?f=xxs",
+    "title": "SNÖFRID",
+    "integer": "7",
+    "price": "7 €",
+    "decimal": ".99",
+    "description": "Cushion cover40x65 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/bergpalm-quilt-cover-and-2-pillowcases__0720377_PE732520_S5.JPG?f=xxs",
+    "title": "BERGPALM",
+    "integer": "22",
+    "price": "22 €",
+    "decimal": ".95",
+    "description": "Quilt cover and 2 pillowcases200x200/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/dvala-quilt-cover-and-2-pillowcases__0090640_PE224788_S5.JPG?f=xxs",
+    "title": "DVALA",
+    "integer": "19",
+    "price": "19 €",
+    "decimal": ".95",
+    "description": "Quilt cover and 2 pillowcases200x200/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/aengslilja-quilt-cover-and-2-pillowcases__0605704_PE681830_S5.JPG?f=xxs",
+    "title": "ÄNGSLILJA",
+    "integer": "29",
+    "price": "29 €",
+    "decimal": ".95",
+    "description": "Quilt cover and 2 pillowcases200x200/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ullvide-fitted-sheet__0604096_PE681036_S5.JPG?f=xxs",
+    "title": "ULLVIDE",
+    "integer": "14",
+    "price": "14 €",
+    "decimal": ".95",
+    "description": "Fitted sheet160x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/lyktfibbla-quilt-cover-and-pillowcase__0794247_PE769097_S5.JPG?f=xxs",
+    "title": "LYKTFIBBLA",
+    "integer": "7",
+    "price": "7 €",
+    "decimal": ".99",
+    "description": "Quilt cover and pillowcase140x200/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/puderviva-quilt-cover-and-pillowcase__0683338_PE721006_S5.JPG?f=xxs",
+    "title": "PUDERVIVA",
+    "integer": "49",
+    "price": "49 €",
+    "decimal": ".95",
+    "description": "Quilt cover and pillowcase140x200/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/faergmara-fitted-sheet-white__0604089_PE681028_S5.JPG?f=xxs",
+    "title": "FÄRGMÅRA",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".99",
+    "description": "Fitted sheet140x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/faergmara-quilt-cover-and-2-pillowcases__0683334_PE721002_S5.JPG?f=xxs",
+    "title": "FÄRGMÅRA",
+    "integer": "9",
+    "price": "9 €",
+    "decimal": ".99",
+    "description": "Quilt cover and 2 pillowcases200x200/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/kopparranka-quilt-cover-and-2-pillowcases__0733521_PE739201_S5.JPG?f=xxs",
+    "title": "KOPPARRANKA",
+    "integer": "22",
+    "price": "22 €",
+    "decimal": ".95",
+    "description": "Quilt cover and 2 pillowcases200x200/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/brunkrissla-quilt-cover-and-2-pillowcases__0605716_PE681842_S5.JPG?f=xxs",
+    "title": "BRUNKRISSLA",
+    "integer": "22",
+    "price": "22 €",
+    "decimal": ".95",
+    "description": "Quilt cover and 2 pillowcases200x200/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/jaettevallmo-quilt-cover-and-2-pillowcases__0755547_PE748556_S5.JPG?f=xxs",
+    "title": "JÄTTEVALLMO",
+    "integer": "29",
+    "price": "29 €",
+    "decimal": ".95",
+    "description": "Quilt cover and 2 pillowcases240x220/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ingabritta-throw-pale-pink__0603309_PE680744_S5.JPG?f=xxs",
+    "title": "INGABRITTA",
+    "integer": "19",
+    "price": "19 €",
+    "decimal": ".95",
+    "description": "Throw130x170 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/blavinda-quilt-cover-and-2-pillowcases__0642959_PE701556_S5.JPG?f=xxs",
+    "title": "BLÅVINDA",
+    "integer": "39",
+    "price": "39 €",
+    "decimal": ".95",
+    "description": "Quilt cover and 2 pillowcases200x200/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ofelia-vass-quilt-cover-and-2-pillowcases__0643366_PE701799_S5.JPG?f=xxs",
+    "title": "OFELIA VASS",
+    "integer": "29",
+    "price": "29 €",
+    "decimal": ".95",
+    "description": "Quilt cover and 2 pillowcases200x200/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/varbraecka-quilt-cover-and-2-pillowcases__0709493_PE726991_S5.JPG?f=xxs",
+    "title": "VÅRBRÄCKA",
+    "integer": "14",
+    "price": "14 €",
+    "decimal": ".95",
+    "description": "Quilt cover and 2 pillowcases200x200/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/stjaernloek-mattress-protector__0658746_PE710399_S5.JPG?f=xxs",
+    "title": "STJÄRNLÖK",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Mattress protector90x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/goemblomma-quilt-cover-and-2-pillowcases__0718897_PE731742_S5.JPG?f=xxs",
+    "title": "GÖMBLOMMA",
+    "integer": "19",
+    "price": "19 €",
+    "decimal": ".95",
+    "description": "Quilt cover and 2 pillowcases200x200/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/skogsstarr-quilt-cover-and-2-pillowcases__0804345_PE769163_S5.JPG?f=xxs",
+    "title": "SKOGSSTARR",
+    "integer": "17",
+    "price": "17 €",
+    "decimal": ".95",
+    "description": "Quilt cover and 2 pillowcases200x200/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/strandfraene-quilt-cover-and-2-pillowcases__0736852_PE741305_S5.JPG?f=xxs",
+    "title": "STRANDFRÄNE",
+    "integer": "39",
+    "price": "39 €",
+    "decimal": ".95",
+    "description": "Quilt cover and 2 pillowcases240x220/60x70 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/grusnarv-mattress-protector__0790191_PE764297_S5.JPG?f=xxs",
+    "title": "GRUSNARV",
+    "integer": "8",
+    "price": "8 €",
+    "decimal": ".99",
+    "description": "Mattress protector90x200 cm"
+  }
+]
