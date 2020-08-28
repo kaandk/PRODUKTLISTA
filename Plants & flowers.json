@@ -1,0 +1,194 @@
+[
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant__0817871_PE774216_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".99",
+    "description": "Artificial potted plant9 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/invaendig-artificial-terrarium-dome__0817882_PE774208_S5.JPG?f=xxs",
+    "title": "INVÄNDIG",
+    "integer": "5",
+    "price": "5 €",
+    "decimal": ".99",
+    "description": "Artificial terrarium, dome15 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/smycka-artificial-bouquet-in-outdoor-green__0817337_PE773968_S5.JPG?f=xxs",
+    "title": "SMYCKA",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Artificial bouquet31 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant-in-outdoor-hanging__0748917_PE745318_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".99",
+    "description": "Artificial potted plant9 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant-with-pot__0614187_PE686812_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Artificial potted plant with pot6 cm 3 pack"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant__0817875_PE774219_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "7",
+    "price": "7 €",
+    "decimal": ".99",
+    "description": "Artificial potted plant9 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant__0748884_PE745273_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "49",
+    "price": "49 €",
+    "decimal": ".95",
+    "description": "Artificial potted plant23 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-plant__0636354_PE697840_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Artificial plant26x26 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/smycka-artificial-leaf__0638910_PE699263_S5.JPG?f=xxs",
+    "title": "SMYCKA",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Artificial leaf65 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant__0748878_PE745267_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "19",
+    "price": "19 €",
+    "decimal": ".95",
+    "description": "Artificial potted plant12 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant-in-outdoor-monstera__0614197_PE686822_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "39",
+    "price": "39 €",
+    "decimal": ".95",
+    "description": "Artificial potted plant19 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/smycka-artificial-flower-sweet-pea-white__0611454_PE685452_S5.JPG?f=xxs",
+    "title": "SMYCKA",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Artificial flower60 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant-in-outdoor-pink__0614205_PE686829_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "12",
+    "price": "12 €",
+    "decimal": ".95",
+    "description": "Artificial potted plant9 cm 3 pack"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/smycka-artificial-flower__0611395_PE685419_S5.JPG?f=xxs",
+    "title": "SMYCKA",
+    "integer": "0",
+    "price": "0 €",
+    "decimal": ".59",
+    "description": "Artificial flower30 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant-oregano__0748888_PE745271_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Artificial potted plant9 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant-in-outdoor-hanging-ivy__0898086_PE782558_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "5",
+    "price": "5 €",
+    "decimal": ".99",
+    "description": "Artificial potted plant12 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant-with-pot-in-outdoor-succulent__0614211_PE686835_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "0",
+    "price": "0 €",
+    "decimal": ".99",
+    "description": "Artificial potted plant with pot6 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant-in-outdoor-weeping-fig-stem__0614175_PE686802_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "9",
+    "price": "9 €",
+    "decimal": ".99",
+    "description": "Artificial potted plant12 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/smycka-artificial-flower-eucalyptus-pink__0611429_PE685430_S5.JPG?f=xxs",
+    "title": "SMYCKA",
+    "integer": "0",
+    "price": "0 €",
+    "decimal": ".99",
+    "description": "Artificial flower30 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant-in-outdoor-string-of-beads__0614193_PE686818_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".99",
+    "description": "Artificial potted plant9 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant__0720952_PE732958_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "7",
+    "price": "7 €",
+    "decimal": ".99",
+    "description": "Artificial potted plant9 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-plant-wall-mounted-in-outdoor-green-lilac__0636355_PE697841_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Artificial plant26x26 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/smycka-artificial-bouquet-pink__0636637_PE697930_S5.JPG?f=xxs",
+    "title": "SMYCKA",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".99",
+    "description": "Artificial bouquet25 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/fejka-artificial-potted-plant-weeping-fig__0748885_PE745274_S5.JPG?f=xxs",
+    "title": "FEJKA",
+    "integer": "49",
+    "price": "49 €",
+    "decimal": ".95",
+    "description": "Artificial potted plant21 cm"
+  }
+]

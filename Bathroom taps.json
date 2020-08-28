@@ -1,0 +1,66 @@
+[
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/raennilen-water-trap-1-bowl__0804709_PE769298_S5.JPG?f=xxs",
+    "title": "RÄNNILEN",
+    "integer": "10",
+    "price": "10 €",
+    "decimal": ".00",
+    "description": "Water trap, 1 bowl"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/dalskaer-wash-basin-mixer-tap-with-strainer-stainless-steel-colour__0755161_PE748288_S5.JPG?f=xxs",
+    "title": "DALSKÄR",
+    "integer": "69",
+    "price": "69 €",
+    "decimal": ".95",
+    "description": "Wash-basin mixer tap with strainer"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/raennilen-water-trap-2-bowls__0804676_PE769268_S5.JPG?f=xxs",
+    "title": "RÄNNILEN",
+    "integer": "20",
+    "price": "20 €",
+    "decimal": ".00",
+    "description": "Water trap, 2 bowls"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/hamnskaer-wash-basin-mixer-tap-tall-chrome-plated__0755164_PE748291_S5.JPG?f=xxs",
+    "title": "HAMNSKÄR",
+    "integer": "99",
+    "price": "99 €",
+    "decimal": ".95",
+    "description": "Wash-basin mixer tap, tall"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/hamnskaer-wash-basin-mixer-tap-with-strainer-black__0755165_PE748292_S5.JPG?f=xxs",
+    "title": "HAMNSKÄR",
+    "integer": "89",
+    "price": "89 €",
+    "decimal": ".95",
+    "description": "Wash-basin mixer tap with strainer"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/orrevik-sink-strainer-chrome-plated__0627018_PE693148_S5.JPG?f=xxs",
+    "title": "ORREVIK",
+    "integer": "12",
+    "price": "12 €",
+    "decimal": ".95",
+    "description": "Sink strainer"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/trillingen-connecting-fitting__0755951_PE748688_S5.JPG?f=xxs",
+    "title": "TRILLINGEN",
+    "integer": "6",
+    "price": "6 €",
+    "decimal": ".00",
+    "description": "Connecting fitting"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/voxnan-wash-basin-mixer-tap-with-strainer-chrome-plated__0755175_PE748302_S5.JPG?f=xxs",
+    "title": "VOXNAN",
+    "integer": "79",
+    "price": "79 €",
+    "decimal": ".95",
+    "description": "Wash-basin mixer tap with strainer"
+  }
+]

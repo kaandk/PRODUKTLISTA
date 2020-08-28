@@ -1,0 +1,194 @@
+[
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/rensare-clothes-bag-set-of-3-check-pattern-grey-black__0810360_PE771286_S5.JPG?f=xxs",
+    "title": "RENSARE",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Clothes bag, set of 3"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/knoelig-bag__0665713_PE713157_S5.JPG?f=xxs",
+    "title": "KNÖLIG",
+    "integer": "0",
+    "price": "0 €",
+    "decimal": ".99",
+    "description": "Bag"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/rensare-accessory-bag-set-of-3-dotted-yellow__0810359_PE771285_S5.JPG?f=xxs",
+    "title": "RENSARE",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Accessory bag, set of 3"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/droemsaeck-weekend-bag-olive-green__0815623_PE772993_S5.JPG?f=xxs",
+    "title": "DRÖMSÄCK",
+    "integer": "49",
+    "price": "49 €",
+    "decimal": ".95",
+    "description": "Weekend bag42 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/treblad-carrier-bag__0872848_PE781617_S5.JPG?f=xxs",
+    "title": "TREBLAD",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".49",
+    "description": "Carrier bag"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/rensare-clothes-bag-with-compartment-check-pattern-white__0810376_PE771288_S5.JPG?f=xxs",
+    "title": "RENSARE",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Clothes bag with compartment"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/knalla-bag__0815749_PE773033_S5.JPG?f=xxs",
+    "title": "KNALLA",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Bag47 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/kungsfors-net-bag-set-of-2-natural__0712561_PE728918_S5.JPG?f=xxs",
+    "title": "KUNGSFORS",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".99",
+    "description": "Net bag, set of 2"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/droemsaeck-tote-bag-olive-green__0815615_PE776339_S5.JPG?f=xxs",
+    "title": "DRÖMSÄCK",
+    "integer": "19",
+    "price": "19 €",
+    "decimal": ".95",
+    "description": "Tote bag14 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/foerfina-10-piece-travel-set__0712237_PE728683_S5.JPG?f=xxs",
+    "title": "FÖRFINA",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "10-piece travel set"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/pivring-backpack-green__0815626_PE772996_S5.JPG?f=xxs",
+    "title": "PIVRING",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Backpack9 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/skynke-carrier-bag-yellow-white__0778792_PE759148_S5.JPG?f=xxs",
+    "title": "SKYNKE",
+    "integer": "0",
+    "price": "0 €",
+    "decimal": ".99",
+    "description": "Carrier bag"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/starttid-cabin-bag-on-wheels__0711235_PE728080_S5.JPG?f=xxs",
+    "title": "STARTTID",
+    "integer": "14",
+    "price": "14 €",
+    "decimal": ".95",
+    "description": "Cabin bag on wheels"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/vaerldens-accessory-bag__0815653_PE773006_S5.JPG?f=xxs",
+    "title": "VÄRLDENS",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Accessory bag16x4x11 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/droemsaeck-tote-bag__0815613_PE776341_S5.JPG?f=xxs",
+    "title": "DRÖMSÄCK",
+    "integer": "19",
+    "price": "19 €",
+    "decimal": ".95",
+    "description": "Tote bag14 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/foerenkla-backpack-black__0711241_PE728086_S5.JPG?f=xxs",
+    "title": "FÖRENKLA",
+    "integer": "19",
+    "price": "19 €",
+    "decimal": ".95",
+    "description": "Backpack12 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/droemsaeck-toiletry-bag__0810099_PE771236_S5.JPG?f=xxs",
+    "title": "DRÖMSÄCK",
+    "integer": "9",
+    "price": "9 €",
+    "decimal": ".99",
+    "description": "Toiletry bag4 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/starttid-backpack-pink-red__0815645_PE772999_S5.JPG?f=xxs",
+    "title": "STARTTID",
+    "integer": "9",
+    "price": "9 €",
+    "decimal": ".99",
+    "description": "Backpack12 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/vaerldens-toiletry-bag-dark-grey__0815702_PE773020_S5.JPG?f=xxs",
+    "title": "VÄRLDENS",
+    "integer": "9",
+    "price": "9 €",
+    "decimal": ".99",
+    "description": "Toiletry bag"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/foerenkla-backpack__0711242_PE728087_S5.JPG?f=xxs",
+    "title": "FÖRENKLA",
+    "integer": "34",
+    "price": "34 €",
+    "decimal": ".95",
+    "description": "Backpack34 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/knalla-umbrella__0711833_PE728511_S5.JPG?f=xxs",
+    "title": "KNALLA",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Umbrella"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/droemsaeck-backpack__0810046_PE771225_S5.JPG?f=xxs",
+    "title": "DRÖMSÄCK",
+    "integer": "29",
+    "price": "29 €",
+    "decimal": ".95",
+    "description": "Backpack21 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/rensare-bag-check-pattern-black__0810364_PE771287_S5.JPG?f=xxs",
+    "title": "RENSARE",
+    "integer": "0",
+    "price": "0 €",
+    "decimal": ".99",
+    "description": "Bag"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/pivring-backpack-grey__0815627_PE772995_S5.JPG?f=xxs",
+    "title": "PIVRING",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Backpack9 l"
+  }
+]

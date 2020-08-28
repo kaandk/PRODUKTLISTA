@@ -1,0 +1,82 @@
+[
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/frost-drying-rack-in-outdoor-white__0710879_PE727819_S5.JPG?f=xxs",
+    "title": "FROST",
+    "integer": "12",
+    "price": "12 €",
+    "decimal": ".95",
+    "description": "Drying rack, in/outdoor"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/mulig-drying-rack-in-outdoor-white__0710880_PE727820_S5.JPG?f=xxs",
+    "title": "MULIG",
+    "integer": "14",
+    "price": "14 €",
+    "decimal": ".95",
+    "description": "Drying rack, in/outdoor"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/jaell-drying-rack-in-outdoor-white__0710881_PE727821_S5.JPG?f=xxs",
+    "title": "JÄLL",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".99",
+    "description": "Drying rack, in/outdoor"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/antonius-drying-rack__0710869_PE727813_S5.JPG?f=xxs",
+    "title": "ANTONIUS",
+    "integer": "5",
+    "price": "5 €",
+    "decimal": ".99",
+    "description": "Drying rack77x40-49 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/mulig-drying-rack-4-levels-in-outdoor__0710878_PE727818_S5.JPG?f=xxs",
+    "title": "MULIG",
+    "integer": "29",
+    "price": "29 €",
+    "decimal": ".95",
+    "description": "Drying rack 4 levels, in/outdoor"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/grundtal-drying-rack-wall-stainless-steel__0716994_PE731094_S5.JPG?f=xxs",
+    "title": "GRUNDTAL",
+    "integer": "24",
+    "price": "24 €",
+    "decimal": ".95",
+    "description": "Drying rack, wall67-120 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/pressa-hanging-dryer-16-clothes-pegs-turquoise__0662635_PE712056_S5.JPG?f=xxs",
+    "title": "PRESSA",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Hanging dryer 16 clothes pegs"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/torkis-clothes-peg__0740133_PE741957_S5.JPG?f=xxs",
+    "title": "TORKIS",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Clothes peg"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/torkis-peg-basket-with-30-clothes-pegs-in-outdoor-white-blue__0711173_PE728042_S5.JPG?f=xxs",
+    "title": "TORKIS",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Peg basket with 30 clothes pegs"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/borstad-hanger-with-hooks__0810882_PE771465_S5.JPG?f=xxs",
+    "title": "BORSTAD",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".99",
+    "description": "Hanger with hooks"
+  }
+]
