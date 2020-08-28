@@ -1,0 +1,194 @@
+[
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/angersby-2-seat-sofa__0770896_PE755642_S5.JPG?f=xxs",
+    "title": "ANGERSBY",
+    "integer": "149",
+    "price": "149 €",
+    "decimal": ".00",
+    "description": "2-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/klippan-2-seat-sofa-vissle-grey__0239990_PE379591_S5.JPG?f=xxs",
+    "title": "KLIPPAN",
+    "integer": "179",
+    "price": "179 €",
+    "decimal": ".00",
+    "description": "2-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ektorp-2-seat-sofa__0779476_PE759524_S5.JPG?f=xxs",
+    "title": "EKTORP",
+    "integer": "289",
+    "price": "289 €",
+    "decimal": ".00",
+    "description": "2-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ektorp-3-seat-sofa-hallarp-grey__0818567_PE774489_S5.JPG?f=xxs",
+    "title": "EKTORP",
+    "integer": "399",
+    "price": "399 €",
+    "decimal": ".00",
+    "description": "3-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/soederhamn-3-seat-sofa-samsta-orange__0802690_PE768545_S5.JPG?f=xxs",
+    "title": "SÖDERHAMN",
+    "integer": "499",
+    "price": "499 €",
+    "decimal": ".00",
+    "description": "3-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ektorp-3-seat-sofa-with-chaise-longue-hallarp-grey__0818579_PE774501_S5.JPG?f=xxs",
+    "title": "EKTORP",
+    "integer": "549",
+    "price": "549 €",
+    "decimal": ".00",
+    "description": "3-seat sofa with chaise longue"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/friheten-corner-sofa-bed-with-storage-skiftebo-dark-grey__0175610_PE328883_S5.JPG?f=xxs",
+    "title": "FRIHETEN",
+    "integer": "399",
+    "price": "399 €",
+    "decimal": ".00",
+    "description": "Corner sofa-bed with storage"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/askeby-two-seat-sofa-bed__0528799_PE645938_S5.JPG?f=xxs",
+    "title": "ASKEBY",
+    "integer": "179",
+    "price": "179 €",
+    "decimal": ".00",
+    "description": "Two-seat sofa-bed"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/vimle-sofa__0570233_PE666196_S5.JPG?f=xxs",
+    "title": "VIMLE",
+    "integer": "799",
+    "price": "799 €",
+    "decimal": ".00",
+    "description": "3-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/knopparp-2-seat-sofa-knisa-light-grey__0713943_PE729858_S5.JPG?f=xxs",
+    "title": "KNOPPARP",
+    "integer": "79",
+    "price": "79 €",
+    "decimal": ".95",
+    "description": "2-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/nockeby-three-seat-sofa-tallmyra-white-black-wood__0389184_PE559360_S5.JPG?f=xxs",
+    "title": "NOCKEBY",
+    "integer": "699",
+    "price": "699 €",
+    "decimal": ".00",
+    "description": "Three-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/landskrona-2-seat-sofa-gunnared-dark-grey-wood__0602101_PE680170_S5.JPG?f=xxs",
+    "title": "LANDSKRONA",
+    "integer": "449",
+    "price": "449 €",
+    "decimal": ".00",
+    "description": "2-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/vimle-4-seat-sofa-with-chaise-longue-tallmyra-black-grey__0570235_PE666180_S5.JPG?f=xxs",
+    "title": "VIMLE",
+    "integer": "889",
+    "price": "889 €",
+    "decimal": ".00",
+    "description": "4-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/brathult-corner-sofa-3-seat-borred-grey-green__0524899_PE644625_S5.JPG?f=xxs",
+    "title": "BRÅTHULT",
+    "integer": "284",
+    "price": "284 €",
+    "decimal": ".00",
+    "description": "Corner sofa, 3-seat"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/norsborg-4-seat-sofa__0542525_PE654107_S5.JPG?f=xxs",
+    "title": "NORSBORG",
+    "integer": "694",
+    "price": "694 €",
+    "decimal": ".00",
+    "description": "4-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/kivik-three-seat-sofa__0479989_PE618870_S5.JPG?f=xxs",
+    "title": "KIVIK",
+    "integer": "549",
+    "price": "549 €",
+    "decimal": ".00",
+    "description": "Three-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/nockeby-3-seat-sofa__0389164_PE559363_S5.JPG?f=xxs",
+    "title": "NOCKEBY",
+    "integer": "999",
+    "price": "999 €",
+    "decimal": ".00",
+    "description": "3-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/friheten-three-seat-sofa-bed__0525504_PE644868_S5.JPG?f=xxs",
+    "title": "FRIHETEN",
+    "integer": "349",
+    "price": "349 €",
+    "decimal": ".00",
+    "description": "Three-seat sofa-bed"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/soederhamn-2-seat-sofa-with-chaise-longue-finnsta-turquoise__0666213_PE713465_S5.JPG?f=xxs",
+    "title": "SÖDERHAMN",
+    "integer": "589",
+    "price": "589 €",
+    "decimal": ".00",
+    "description": "2-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/kivik-corner-sofa-5-seat__0479952_PE619111_S5.JPG?f=xxs",
+    "title": "KIVIK",
+    "integer": "1.449",
+    "price": "1.449 €",
+    "decimal": ".00",
+    "description": "Corner sofa, 5-seat"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/klubbfors-2-seat-sofa__0721381_PE733205_S5.JPG?f=xxs",
+    "title": "KLUBBFORS",
+    "integer": "399",
+    "price": "399 €",
+    "decimal": ".00",
+    "description": "2-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/vimle-3-seat-sofa-tallmyra-black-grey__0570232_PE666195_S5.JPG?f=xxs",
+    "title": "VIMLE",
+    "integer": "539",
+    "price": "539 €",
+    "decimal": ".00",
+    "description": "3-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/norsborg-3-seat-sofa-with-chaise-longue-finnsta-dark-grey-metal__0542521_PE654103_S5.JPG?f=xxs",
+    "title": "NORSBORG",
+    "integer": "644",
+    "price": "644 €",
+    "decimal": ".00",
+    "description": "3-seat sofa"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/slatorp-3-seat-sofa__0766634_PE753849_S5.JPG?f=xxs",
+    "title": "SLATORP",
+    "integer": "899",
+    "price": "899 €",
+    "decimal": ".00",
+    "description": "3-seat sofa"
+  }
+]
