@@ -1,0 +1,194 @@
+[
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/istad-resealable-bag__0712775_PE729009_S5.jpg?f=xxs",
+    "title": "ISTAD",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".49",
+    "description": "Resealable bag"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/bevara-sealing-clip-set-of-30-mixed-colours-mixed-sizes__0711631_PE728360_S5.jpg?f=xxs",
+    "title": "BEVARA",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Sealing clip, set of 30"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ikea-365--dry-food-jar-with-lid-transparent-white__0711434_PE728250_S5.jpg?f=xxs",
+    "title": "IKEA 365+",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Dry food jar with lid1.3 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/pruta-food-container-set-of-17-transparent-green__0711382_PE728174_S5.jpg?f=xxs",
+    "title": "PRUTA",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".99",
+    "description": "Food container, set of 17"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/oevermaett-food-cover-set-of-3-silicone-multicolour__0653137_PE707820_S5.jpg?f=xxs",
+    "title": "ÖVERMÄTT",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Food cover, set of 3"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/korken-jar-with-lid-clear-glass__0713739_PE729738_S5.jpg?f=xxs",
+    "title": "KORKEN",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Jar with lid1 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/grundvattnet-box__0754766_PE748081_S5.jpg?f=xxs",
+    "title": "GRUNDVATTNET",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Box17x14 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/istad-resealable-bag__0711886_PE728554_S5.jpg?f=xxs",
+    "title": "ISTAD",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Resealable bag"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ikea-365--food-container__0783560_PE761532_S5.jpg?f=xxs",
+    "title": "IKEA 365+",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".99",
+    "description": "Food container750 ml"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ikea-365--dry-food-jar-with-lid-transparent-white__0711438_PE728254_S5.jpg?f=xxs",
+    "title": "IKEA 365+",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Dry food jar with lid2.3 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ikea-365--food-container-with-lid-square-glass__0916186_PE785017_S5.jpg?f=xxs",
+    "title": "IKEA 365+",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Food container with lid180 ml"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ikea-365--food-container-with-lid__0594323_PE675642_S5.jpg?f=xxs",
+    "title": "IKEA 365+",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Food container with lid1.0 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/bekvaem-spice-rack-birch__0712550_PE728906_S5.jpg?f=xxs",
+    "title": "BEKVÄM",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Spice rack"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/pruta-food-container-transparent-yellow__0711387_PE728178_S5.jpg?f=xxs",
+    "title": "PRUTA",
+    "integer": "0",
+    "price": "0 €",
+    "decimal": ".99",
+    "description": "Food container0.6 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/bevara-seal-and-pour-bag-clip__0715236_PE730382_S5.jpg?f=xxs",
+    "title": "BEVARA",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Seal and pour bag clip1 pack"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/grilltider-squeeze-bottle-plastic-transparent__0685040_PE721321_S5.jpg?f=xxs",
+    "title": "GRILLTIDER",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Squeeze bottle330 ml"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/istad-resealable-bag-turquoise-light-turquoise__0712776_PE729008_S5.jpg?f=xxs",
+    "title": "ISTAD",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Resealable bag"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ikea-365--jar-with-lid-glass-bamboo__0650353_PE706148_S5.jpg?f=xxs",
+    "title": "IKEA 365+",
+    "integer": "8",
+    "price": "8 €",
+    "decimal": ".99",
+    "description": "Jar with lid3.3 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/variera-insert-for-spice-jars-white__0107312_PE270510_S5.jpg?f=xxs",
+    "title": "VARIERA",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Insert for spice jars10x49 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/rajtan-spice-jar-glass-aluminium-colour__0712809_PE729072_S5.jpg?f=xxs",
+    "title": "RAJTAN",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".49",
+    "description": "Spice jar15 cl"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/blomning-coffee-tea-tin__0711405_PE728255_S5.jpg?f=xxs",
+    "title": "BLOMNING",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Coffee/tea tin10x10x10 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ikea-365--lunch-bag__0813203_PE772328_S5.jpg?f=xxs",
+    "title": "IKEA 365+",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".49",
+    "description": "Lunch bag22x17x16 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ikea-365--food-container-with-lid-rectangular-plastic__0614739_PE687051_S5.jpg?f=xxs",
+    "title": "IKEA 365+",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".49",
+    "description": "Food container with lid4.2 l"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/korken-jar-with-lid-clear-glass__0711112_PE727968_S5.jpg?f=xxs",
+    "title": "KORKEN",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Jar with lid2 l"
+  }
+]

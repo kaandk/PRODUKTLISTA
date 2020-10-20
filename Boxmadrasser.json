@@ -1,0 +1,154 @@
+[
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/snarum-wooden-base-sprung-mattress__0641889_PE700777_S5.jpg?f=xxs",
+    "title": "SNARUM",
+    "integer": "1.299",
+    "price": "1.299 €",
+    "decimal": ".00",
+    "description": "Boxmadras140x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/skarer-wooden-base-spring-mattress__0425651_PE581468_S5.jpg?f=xxs",
+    "title": "SKÅRER",
+    "integer": "1.899",
+    "price": "1.899 €",
+    "decimal": ".00",
+    "description": "Boxmadras140x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/skarer-mattress-and-mattress-pad__0396560_PE562384_S5.jpg?f=xxs",
+    "title": "SKÅRER",
+    "integer": "2.609",
+    "price": "2.609 €",
+    "decimal": ".00",
+    "description": "Madras og topmadras140x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/snarum-mattress-and-mattress-pad__0642038_PE700846_S5.jpg?f=xxs",
+    "title": "SNARUM",
+    "integer": "1.509",
+    "price": "1.509 €",
+    "decimal": ".00",
+    "description": "Madras og topmadras120x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/skotterud-wooden-base-sprung-mattress__0395435_PE562576_S5.jpg?f=xxs",
+    "title": "SKOTTERUD",
+    "integer": "1.899",
+    "price": "1.899 €",
+    "decimal": ".00",
+    "description": "Boxmadras90x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/jaernudda-sprung-base-incl-mattress-pad__0098013_PE238917_S5.jpg?f=xxs",
+    "title": "JÄRNUDDA",
+    "integer": "549",
+    "price": "549 €",
+    "decimal": ".00",
+    "description": "Boxmadras med topmadras90x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/skotterud-mattress-and-mattress-pad-firm-tustna__0536141_PE649893_S5.jpg?f=xxs",
+    "title": "SKOTTERUD",
+    "integer": "4.659",
+    "price": "4.659 €",
+    "decimal": ".00",
+    "description": "Madras og topmadras140x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/jaernudda-sprung-base-incl-mattress-pad__0781121_PE760510_S5.jpg?f=xxs",
+    "title": "JÄRNUDDA",
+    "integer": "739",
+    "price": "739 €",
+    "decimal": ".00",
+    "description": "Boxmadras med topmadras90x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/stavanger-mattress-and-mattress-pad__0536160_PE649874_S5.jpg?f=xxs",
+    "title": "STAVANGER",
+    "integer": "5.859",
+    "price": "5.859 €",
+    "decimal": ".00",
+    "description": "Madras og topmadras140x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/stuvland-mattress-and-mattress-pad__0564024_PE665606_S5.jpg?f=xxs",
+    "title": "STUVLAND",
+    "integer": "8.259",
+    "price": "8.259 €",
+    "decimal": ".00",
+    "description": "Madras og topmadras140x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/stavanger-wooden-base-sprung-mattress__0395602_PE562585_S5.jpg?f=xxs",
+    "title": "STAVANGER",
+    "integer": "4.199",
+    "price": "4.199 €",
+    "decimal": ".00",
+    "description": "Boxmadras140x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/stuvland-wooden-base-sprung-mattress__0558976_PE665205_S5.jpg?f=xxs",
+    "title": "STUVLAND",
+    "integer": "3.999",
+    "price": "3.999 €",
+    "decimal": ".00",
+    "description": "Boxmadras90x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/stuvland-mattress-with-headboard-firm-tistedal-natural__0564560_PE665636_S5.jpg?f=xxs",
+    "title": "STUVLAND",
+    "integer": "12.978",
+    "price": "12.978 €",
+    "decimal": ".00",
+    "description": "Madras med sengegavl180x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/skotterud-boroey-mattress-with-headboard__0522969_PE643546_S5.jpg?f=xxs",
+    "title": "SKOTTERUD / BORÖY",
+    "integer": "5.359",
+    "price": "5.359 €",
+    "decimal": ".00",
+    "description": "Madras med sengegavl140x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/stavanger-boroey-headboard__0636330_PE697818_S5.jpg?f=xxs",
+    "title": "STAVANGER / BORÖY",
+    "integer": "1.500",
+    "price": "1.500 €",
+    "decimal": ".00",
+    "description": "Sengegavl180 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/stavanger-boroey-mattress-with-headboard__0642226_PE700976_S5.jpg?f=xxs",
+    "title": "STAVANGER / BORÖY",
+    "integer": "8.678",
+    "price": "8.678 €",
+    "decimal": ".00",
+    "description": "Madras med sengegavl160x200 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/stuvland-headboard__0559108_PE665225_S5.jpg?f=xxs",
+    "title": "STUVLAND",
+    "integer": "1.600",
+    "price": "1.600 €",
+    "decimal": ".00",
+    "description": "Sengegavl140 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/skotterud-boroey-headboard__0636329_PE697819_S5.jpg?f=xxs",
+    "title": "SKOTTERUD / BORÖY",
+    "integer": "1.500",
+    "price": "1.500 €",
+    "decimal": ".00",
+    "description": "Sengegavl180 cm"
+  },
+  {
+    "image": "https://www.ikea.com/dk/da/images/products/skotterud-boroey-mattress-with-headboard__0532798_PE648283_S5.jpg?f=xxs",
+    "title": "SKOTTERUD / BORÖY",
+    "integer": "7.078",
+    "price": "7.078 €",
+    "decimal": ".00",
+    "description": "Madras med sengegavl180x200 cm"
+  }
+]

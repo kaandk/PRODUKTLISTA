@@ -1,0 +1,194 @@
+[
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/gladelig-plate__0799744_PE767614_S5.jpg?f=xxs",
+    "title": "GLADELIG",
+    "integer": "12",
+    "price": "12 €",
+    "decimal": ".95",
+    "description": "Plate25 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/flitighet-plate__0713476_PE729547_S5.jpg?f=xxs",
+    "title": "FLITIGHET",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Plate26 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/dinera-plate__0640796_PE700063_S5.jpg?f=xxs",
+    "title": "DINERA",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".49",
+    "description": "Plate26 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/faergrik-plate-light-green__0713491_PE729574_S5.jpg?f=xxs",
+    "title": "FÄRGRIK",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Plate27 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/dinera-plate-beige__0640785_PE700054_S5.jpg?f=xxs",
+    "title": "DINERA",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".49",
+    "description": "Plate26 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/dinera-plate-dark-grey__0640799_PE700065_S5.jpg?f=xxs",
+    "title": "DINERA",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Plate30x20 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/backig-plate-black__0714493_PE730105_S5.jpg?f=xxs",
+    "title": "BACKIG",
+    "integer": "7",
+    "price": "7 €",
+    "decimal": ".99",
+    "description": "Plate25x25 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ikea-365--plate__0712377_PE728796_S5.jpg?f=xxs",
+    "title": "IKEA 365+",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Plate27 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/upplaga-plate-white__0714553_PE730123_S5.jpg?f=xxs",
+    "title": "UPPLAGA",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Plate28 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/strimmig-plate-earthenware-blue__0735139_PE739771_S5.jpg?f=xxs",
+    "title": "STRIMMIG",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Plate27 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/dinera-plate-light-pink__0713465_PE729538_S5.jpg?f=xxs",
+    "title": "DINERA",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".49",
+    "description": "Plate26 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/krustad-plate-light-grey__0713534_PE729582_S5.jpg?f=xxs",
+    "title": "KRUSTAD",
+    "integer": "6",
+    "price": "6 €",
+    "decimal": ".99",
+    "description": "Plate25 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/dinera-plate-gray-blue__0712368_PE728787_S5.jpg?f=xxs",
+    "title": "DINERA",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Plate30x20 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/strimmig-plate__0735142_PE739773_S5.jpg?f=xxs",
+    "title": "STRIMMIG",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Plate27 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/skyn-plate-white__0720479_PE732578_S5.jpg?f=xxs",
+    "title": "SKYN",
+    "integer": "24",
+    "price": "24 €",
+    "decimal": ".95",
+    "description": "Plate28 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/formidabel-plate__0713485_PE729556_S5.jpg?f=xxs",
+    "title": "FORMIDABEL",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Plate22 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/formidabel-plate__0713478_PE729549_S5.jpg?f=xxs",
+    "title": "FORMIDABEL",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".99",
+    "description": "Plate18 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/formidabel-plate__0712316_PE728807_S5.jpg?f=xxs",
+    "title": "FORMIDABEL",
+    "integer": "4",
+    "price": "4 €",
+    "decimal": ".99",
+    "description": "Plate28 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/backig-serving-plate__0712362_PE728781_S5.jpg?f=xxs",
+    "title": "BACKIG",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Serving plate30x30 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/omtaenksam-plate-with-anti-slip__0563648_PE663948_S5.jpg?f=xxs",
+    "title": "OMTÄNKSAM",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".49",
+    "description": "Plate with anti-slip20 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/omtaenksam-plate-with-anti-slip-white__0563659_PE663951_S5.jpg?f=xxs",
+    "title": "OMTÄNKSAM",
+    "integer": "3",
+    "price": "3 €",
+    "decimal": ".99",
+    "description": "Plate with anti-slip26 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/dinera-plate__0712317_PE728765_S5.jpg?f=xxs",
+    "title": "DINERA",
+    "integer": "2",
+    "price": "2 €",
+    "decimal": ".49",
+    "description": "Plate26 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/faergrik-plate__0712320_PE728768_S5.jpg?f=xxs",
+    "title": "FÄRGRIK",
+    "integer": "1",
+    "price": "1 €",
+    "decimal": ".99",
+    "description": "Plate27 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/gladelig-plate-grey__0799742_PE767613_S5.jpg?f=xxs",
+    "title": "GLADELIG",
+    "integer": "5",
+    "price": "5 €",
+    "decimal": ".99",
+    "description": "Plate31x19 cm"
+  }
+]
