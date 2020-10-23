@@ -1,0 +1,74 @@
+[
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/lagan-integrated-dishwasher__0854668_PE780719_S5.jpg?f=xxs",
+    "title": "LAGAN",
+    "integer": "249",
+    "price": "249 €",
+    "decimal": ".00",
+    "description": "Integrated dishwasher60 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/renodlad-integrated-dishwasher-ikea-500__0846419_PE779076_S5.jpg?f=xxs",
+    "title": "RENODLAD",
+    "integer": "449",
+    "price": "449 €",
+    "decimal": ".00",
+    "description": "Integrated dishwasher60 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/rengora-integrated-dishwasher-ikea-300__0846411_PE779069_S5.jpg?f=xxs",
+    "title": "RENGÖRA",
+    "integer": "349",
+    "price": "349 €",
+    "decimal": ".00",
+    "description": "Integrated dishwasher60 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/diskad-integrated-dishwasher-ikea-700__0846327_PE779008_S5.jpg?f=xxs",
+    "title": "DISKAD",
+    "integer": "799",
+    "price": "799 €",
+    "decimal": ".00",
+    "description": "Integrated dishwasher60 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/hygienisk-integrated-dishwasher-ikea-500__0846369_PE779041_S5.jpg?f=xxs",
+    "title": "HYGIENISK",
+    "integer": "599",
+    "price": "599 €",
+    "decimal": ".00",
+    "description": "Integrated dishwasher60 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/proffsig-integrated-dishwasher-ikea-700__0846396_PE779058_S5.jpg?f=xxs",
+    "title": "PROFFSIG",
+    "integer": "699",
+    "price": "699 €",
+    "decimal": ".00",
+    "description": "Integrated dishwasher60 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/medelstor-integrated-dishwasher-ikea-500__0846387_PE779051_S5.jpg?f=xxs",
+    "title": "MEDELSTOR",
+    "integer": "399",
+    "price": "399 €",
+    "decimal": ".00",
+    "description": "Integrated dishwasher45 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/finputsad-integrated-dishwasher-ikea-700__0846337_PE779016_S5.jpg?f=xxs",
+    "title": "FINPUTSAD",
+    "integer": "549",
+    "price": "549 €",
+    "decimal": ".00",
+    "description": "Integrated dishwasher45 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/medelstor-integrated-dishwasher-grey__0586237_PE672048_S5.jpg?f=xxs",
+    "title": "MEDELSTOR",
+    "integer": "399",
+    "price": "399 €",
+    "decimal": ".00",
+    "description": "Integrated dishwasher"
+  }
+]

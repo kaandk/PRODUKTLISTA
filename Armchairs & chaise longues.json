@@ -1,0 +1,194 @@
+[
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/strandmon-wing-chair-nordvalla-dark-grey__0325432_PE517964_S5.jpg?f=xxs",
+    "title": "STRANDMON",
+    "integer": "179",
+    "price": "179 €",
+    "decimal": ".00",
+    "description": "Wing chair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ekenaset-armchair-hillared-anthracite__0729143_PE736711_S5.jpg?f=xxs",
+    "title": "EKENÄSET",
+    "integer": "149",
+    "price": "149 €",
+    "decimal": ".00",
+    "description": "Armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/poang-armchair-black-brown-knisa-black__0571510_PE666941_S5.jpg?f=xxs",
+    "title": "POÄNG",
+    "integer": "59",
+    "price": "59 €",
+    "decimal": ".95",
+    "description": "Armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/koarp-armchair-gunnared-medium-grey-black__0522305_PE643209_S5.jpg?f=xxs",
+    "title": "KOARP",
+    "integer": "169",
+    "price": "169 €",
+    "decimal": ".00",
+    "description": "Armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/pello-armchair-holmby-natural__38296_PE130209_S5.jpg?f=xxs",
+    "title": "PELLO",
+    "integer": "34",
+    "price": "34 €",
+    "decimal": ".95",
+    "description": "Armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/gubbo-easy-chair-velvet-pink__0717964_PE731404_S5.jpg?f=xxs",
+    "title": "GUBBO",
+    "integer": "149",
+    "price": "149 €",
+    "decimal": ".00",
+    "description": "Easy chair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/nolmyra-easy-chair-black-black__0169629_PE323574_S5.jpg?f=xxs",
+    "title": "NOLMYRA",
+    "integer": "29",
+    "price": "29 €",
+    "decimal": ".95",
+    "description": "Easy chair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/stocksund-armchair-segersta-multicolour-light-brown-wood__0617758_PE688179_S5.jpg?f=xxs",
+    "title": "STOCKSUND",
+    "integer": "349",
+    "price": "349 €",
+    "decimal": ".00",
+    "description": "Armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/remsta-armchair-djuparp-dark-grey__0463611_PE608818_S5.jpg?f=xxs",
+    "title": "REMSTA",
+    "integer": "149",
+    "price": "149 €",
+    "decimal": ".00",
+    "description": "Armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ekolsund-recliner-gunnared-light-brown-pink__0709905_PE727164_S5.jpg?f=xxs",
+    "title": "EKOLSUND",
+    "integer": "299",
+    "price": "299 €",
+    "decimal": ".00",
+    "description": "Recliner"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/gronlid-armchair-sporda-dark-grey__0604399_PE681240_S5.jpg?f=xxs",
+    "title": "GRÖNLID",
+    "integer": "239",
+    "price": "239 €",
+    "decimal": ".00",
+    "description": "Armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/sandared-pouffe-beige__0560902_PE662686_S5.jpg?f=xxs",
+    "title": "SANDARED",
+    "integer": "39",
+    "price": "39 €",
+    "decimal": ".95",
+    "description": "Pouffe45 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/buskbo-armchair-rattan-djupvik-white__0700959_PE723853_S5.jpg?f=xxs",
+    "title": "BUSKBO",
+    "integer": "149",
+    "price": "149 €",
+    "decimal": ".00",
+    "description": "Armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/muren-recliner-nordvalla-dark-grey__0707996_PE726443_S5.jpg?f=xxs",
+    "title": "MUREN",
+    "integer": "259",
+    "price": "259 €",
+    "decimal": ".00",
+    "description": "Recliner"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/aleby-swivel-armchair-gunnared-medium-grey-dark-grey__0580087_PE670044_S5.jpg?f=xxs",
+    "title": "ÄLEBY",
+    "integer": "249",
+    "price": "249 €",
+    "decimal": ".00",
+    "description": "Swivel armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/bingsta-armchair-vissle-dark-yellow-kabusa-dark-yellow__0761760_PE751428_S5.jpg?f=xxs",
+    "title": "BINGSTA",
+    "integer": "129",
+    "price": "129 €",
+    "decimal": ".00",
+    "description": "Armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/alseda-stool-banana-fibre__24302_PE089431_S5.jpg?f=xxs",
+    "title": "ALSEDA",
+    "integer": "29",
+    "price": "29 €",
+    "decimal": ".95",
+    "description": "Stool"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/omtanksam-armchair-gunnared-dark-grey__0634104_PE696303_S5.jpg?f=xxs",
+    "title": "OMTÄNKSAM",
+    "integer": "249",
+    "price": "249 €",
+    "decimal": ".00",
+    "description": "Armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ekero-armchair-skiftebo-yellow__0204753_PE359787_S5.jpg?f=xxs",
+    "title": "EKERÖ",
+    "integer": "129",
+    "price": "129 €",
+    "decimal": ".00",
+    "description": "Armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/poang-armchair-white-stained-oak-veneer-knisa-black__0681521_PE720132_S5.jpg?f=xxs",
+    "title": "POÄNG",
+    "integer": "59",
+    "price": "59 €",
+    "decimal": ".95",
+    "description": "Armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/soderhamn-armchair-lejde-grey-black__0829799_PE776759_S5.jpg?f=xxs",
+    "title": "SÖDERHAMN",
+    "integer": "319",
+    "price": "319 €",
+    "decimal": ".00",
+    "description": "Armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ektorp-armchair-hallarp-grey__0818467_PE774418_S5.jpg?f=xxs",
+    "title": "EKTORP",
+    "integer": "249",
+    "price": "249 €",
+    "decimal": ".00",
+    "description": "Armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/strandmon-wing-chair-jarstad-brown__0534682_PE649222_S5.jpg?f=xxs",
+    "title": "STRANDMON",
+    "integer": "229",
+    "price": "229 €",
+    "decimal": ".00",
+    "description": "Wing chair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/tullsta-armchair-lofallet-beige__0602718_PE680490_S5.jpg?f=xxs",
+    "title": "TULLSTA",
+    "integer": "119",
+    "price": "119 €",
+    "decimal": ".95",
+    "description": "Armchair"
+  }
+]

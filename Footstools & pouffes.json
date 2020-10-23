@@ -1,0 +1,194 @@
+[
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/sandared-pouffe-beige__0560902_PE662686_S5.jpg?f=xxs",
+    "title": "SANDARED",
+    "integer": "39",
+    "price": "39 €",
+    "decimal": ".95",
+    "description": "Pouffe45 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/alseda-stool-banana-fibre__24302_PE089431_S5.jpg?f=xxs",
+    "title": "ALSEDA",
+    "integer": "29",
+    "price": "29 €",
+    "decimal": ".95",
+    "description": "Stool"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/strandmon-footstool-nordvalla-dark-grey__0325401_PE517982_S5.jpg?f=xxs",
+    "title": "STRANDMON",
+    "integer": "69",
+    "price": "69 €",
+    "decimal": ".95",
+    "description": "Footstool"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/bosnas-footstool-with-storage-ransta-black__0241131_PE381202_S5.jpg?f=xxs",
+    "title": "BOSNÄS",
+    "integer": "16",
+    "price": "16 €",
+    "decimal": ".95",
+    "description": "Footstool with storage"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/dihult-pouffe-katorp-natural__0498482_PE629631_S5.jpg?f=xxs",
+    "title": "DIHULT",
+    "integer": "69",
+    "price": "69 €",
+    "decimal": ".95",
+    "description": "Pouffe"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/ektorp-footstool-hallarp-grey__0818499_PE774441_S5.jpg?f=xxs",
+    "title": "EKTORP",
+    "integer": "139",
+    "price": "139 €",
+    "decimal": ".00",
+    "description": "Footstool"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/stocksund-bench-nolhaga-grey-beige-black-wood__0730169_PE737450_S5.jpg?f=xxs",
+    "title": "STOCKSUND",
+    "integer": "299",
+    "price": "299 €",
+    "decimal": ".00",
+    "description": "Bench"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/kivik-footstool-with-storage-orrsta-light-grey__0249463_PE387741_S5.jpg?f=xxs",
+    "title": "KIVIK",
+    "integer": "139",
+    "price": "139 €",
+    "decimal": ".00",
+    "description": "Footstool with storage"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/vimle-footstool-with-storage-gunnared-medium-grey__0514353_PE639449_S5.jpg?f=xxs",
+    "title": "VIMLE",
+    "integer": "155",
+    "price": "155 €",
+    "decimal": ".00",
+    "description": "Footstool with storage"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/soderhamn-footstool-finnsta-turquoise__0406298_PE583240_S5.jpg?f=xxs",
+    "title": "SÖDERHAMN",
+    "integer": "169",
+    "price": "169 €",
+    "decimal": ".00",
+    "description": "Footstool"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/sandared-pouffe-grey__0561032_PE662663_S5.jpg?f=xxs",
+    "title": "SANDARED",
+    "integer": "59",
+    "price": "59 €",
+    "decimal": ".95",
+    "description": "Pouffe56 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/poang-footstool-black-brown-knisa-black__0571829_PE667074_S5.jpg?f=xxs",
+    "title": "POÄNG",
+    "integer": "29",
+    "price": "29 €",
+    "decimal": ".99",
+    "description": "Footstool"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/sandared-pouffe-dark-blue__0561062_PE662672_S5.jpg?f=xxs",
+    "title": "SANDARED",
+    "integer": "89",
+    "price": "89 €",
+    "decimal": ".95",
+    "description": "Pouffe71 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/otteron-innerskar-pouffe-in-outdoor-dark-green__0744493_PE743299_S5.jpg?f=xxs",
+    "title": "OTTERÖN / INNERSKÄR",
+    "integer": "49",
+    "price": "49 €",
+    "decimal": ".95",
+    "description": "Pouffe, in/outdoor58 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/landskrona-footstool-gunnared-dark-grey-metal__0602060_PE680123_S5.jpg?f=xxs",
+    "title": "LANDSKRONA",
+    "integer": "199",
+    "price": "199 €",
+    "decimal": ".00",
+    "description": "Footstool"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/gamlehult-footstool-with-storage-rattan-anthracite__0672903_PE716940_S5.jpg?f=xxs",
+    "title": "GAMLEHULT",
+    "integer": "69",
+    "price": "69 €",
+    "decimal": ".95",
+    "description": "Footstool with storage"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/aleby-footstool-for-swivel-armchair-gunnared-medium-grey-dark-grey__0794101_PE765510_S5.jpg?f=xxs",
+    "title": "ÄLEBY",
+    "integer": "79",
+    "price": "79 €",
+    "decimal": ".95",
+    "description": "Footstool for swivel armchair"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/strandmon-footstool-jarstad-brown__0534680_PE649220_S5.jpg?f=xxs",
+    "title": "STRANDMON",
+    "integer": "89",
+    "price": "89 €",
+    "decimal": ".95",
+    "description": "Footstool"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/vallentuna-seat-module-with-storage-hillared-dark-grey__0730158_PE737410_S5.jpg?f=xxs",
+    "title": "VALLENTUNA",
+    "integer": "205",
+    "price": "205 €",
+    "decimal": ".00",
+    "description": "Seat module with storage"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/gronlid-footstool-sporda-natural__0604425_PE681254_S5.jpg?f=xxs",
+    "title": "GRÖNLID",
+    "integer": "99",
+    "price": "99 €",
+    "decimal": ".00",
+    "description": "Footstool"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/farlov-footstool-with-storage-flodafors-white__0479734_PE619082_S5.jpg?f=xxs",
+    "title": "FÄRLÖV",
+    "integer": "199",
+    "price": "199 €",
+    "decimal": ".00",
+    "description": "Footstool with storage"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/stockholm-2017-pouffe-sandbacka-dark-grey__0447573_PE597386_S5.jpg?f=xxs",
+    "title": "STOCKHOLM 2017",
+    "integer": "129",
+    "price": "129 €",
+    "decimal": ".00",
+    "description": "Pouffe50x50 cm"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/benarp-footstool-nordvalla-dark-grey__0447360_PE597208_S5.jpg?f=xxs",
+    "title": "BENARP",
+    "integer": "69",
+    "price": "69 €",
+    "decimal": ".95",
+    "description": "Footstool"
+  },
+  {
+    "image": "https://www.ikea.com/nl/en/images/products/otteron-innerskar-pouffe-in-outdoor-purple__0744492_PE743300_S5.jpg?f=xxs",
+    "title": "OTTERÖN / INNERSKÄR",
+    "integer": "49",
+    "price": "49 €",
+    "decimal": ".95",
+    "description": "Pouffe, in/outdoor48 cm"
+  }
+]
